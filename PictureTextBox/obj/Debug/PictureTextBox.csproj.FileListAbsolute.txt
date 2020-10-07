@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\bin\Debug\PictureTextBox.exe.config
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\bin\Debug\PictureTextBox.exe
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\bin\Debug\PictureTextBox.pdb
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.Properties.Resources.resources
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.exe
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.pdb
+C:\Users\user\source\repos\PictureTextBox\PictureTextBox\obj\Debug\PictureTextBox.Form1.resources
